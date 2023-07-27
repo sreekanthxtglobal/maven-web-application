@@ -6,9 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	
 	<name>maven-web-application</name>
-
 	<description>Maven Web Project for Java Project</description>
 	<organization>
 		<name> Technologies</name>
@@ -26,7 +24,6 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
-
 	<dependencies>
 		
 		<dependency>
