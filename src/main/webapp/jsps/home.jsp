@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to  Technologies. Ph No: +91-9980923226 ,+91-9980923216 Marathahalli,Karnataka </h1>
-<h1 align="center">  Technologies- Very Good Training center for DevOps with AWS </h1>
+<h1 align="center">Welcome to  Technologies. </h1>
+<h1 align="center">  Hyderabad </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
